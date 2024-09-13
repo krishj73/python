@@ -1,7 +1,4 @@
-#list - ordered & changeable #radhikaoncoke #https://open.spotify.com/user/31lbk2tlfy7j5r7x6lxwmafm3amm/playlists
-#radhikasharmx_ ,rashi_agrawal04,flxxkeswho,ddiyabeniwal,_._nushhh
-#https://twitter.com/way2thickforyaa,https://twitter.com/PhewPhewuu,#https://twitter.com/_trippedandfell,https://twitter.com/toshii_i09
-#https://twitter.com/anaanya__,https://twitter.com/PhewPhewuu,https://twitter.com/mujhemaardo,https://twitter.com/heeya_peshwani
+#list - ordered & changeable
 food = ["pizza", "burger", "pasta"] 
 food.insert(0,"cake")               
 food.index("pizza")
