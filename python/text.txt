@@ -1,2 +1,0 @@
-Hey everyone
-We're learning file io in python
