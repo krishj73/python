@@ -12,6 +12,15 @@ while(i<11):
     i+=1
 print()
 
+#do while
+#i=0
+#while True:
+#    print(i, end=" ")
+#    i+=1
+#    if (i>10):
+#        break
+#print()
+
 print("patterns using loop : ")
 #1
 n=5
