@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form</title>
+    </head>
+
+    <body>
+        <form method="POST">
+        Enter username :
+        <input type="text" name="username">
+        <input type="submit">
+        </form>
+        {% if name %}
+        <h2>Hello {{ name }}</h2>
+        {% endif %}
+    </body>
+</html>
