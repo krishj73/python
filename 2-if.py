@@ -8,18 +8,13 @@ else:
     print("Tu toh bada ho gaya")
 
 #nested if/else
-a=10
-b=20
-c=30
-if a>b:
-    if a>c:
-        greatest = a
-    else:
-        greatest = c
-else:
-    if b>c:
-        greatest = b
-    else:
-        greatest = c
+a, b, c = 10, 20, 30
 
-print("Greatest number :",greatest)
+if a>b and a>c:
+    greatest = a
+elif b>a and b>c:
+    greatest = b
+else:
+    greatest = c
+
+print("Greatest number :", greatest)
