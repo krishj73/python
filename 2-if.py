@@ -1,8 +1,8 @@
 #if/else
 age = int(input("Enter user age : "))
-if age<18:
+if age < 18:
     print("Chhoti bacchi ho kya")       #you're not an adult
-elif age==18:
+elif age == 18:
     print("Ab majaa ayega na bhidu")    #you're an adult
 else:
     print("Tu toh bada ho gaya")        #you're more than an adult
