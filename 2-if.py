@@ -15,7 +15,7 @@ elif b>a and b>c:
 else:
     greatest = c
 
-print("Greatest number :", greatest)
+print("Greatest number : ", greatest)
 
 #nested if/else
 ntn = input("enter nationality : ")
