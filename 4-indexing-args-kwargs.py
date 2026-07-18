@@ -38,4 +38,4 @@ def add2(*args):
     for i in args:
         sum += i
     return sum
-print(add2(1,2,3))
+print(add2(1,2,3))      #1 changed to 5
